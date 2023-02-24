@@ -126,7 +126,7 @@ textarea {
 }
 
 .homePage .post {
- width: 500px;
+ width: 450px;
   height: auto;
   max-height: 500px;
   background-color: rgb(224, 239, 243);
@@ -252,9 +252,10 @@ textarea {
 }
   .homePage{
   display: block;
+     margin-left: -7px;
 }
 .homePage .post {
-  width: 360px;
+  width: 340px;
   height: auto;
   max-height: 300px;
   overflow: hidden;
