@@ -125,11 +125,8 @@ textarea {
   padding-top: 20px;
 }
 
-.homePage{
-  display: block;
-}
 .homePage .post {
-  width: 400px;
+ width: 500px;
   height: auto;
   max-height: 500px;
   background-color: rgb(224, 239, 243);
@@ -253,8 +250,11 @@ textarea {
 .App-link {
   color: #61dafb;
 }
+  .homePage{
+  display: block;
+}
 .homePage .post {
-  width: 500px;
+  width: 400px;
   height: auto;
   max-height: 300px;
   overflow: hidden;
